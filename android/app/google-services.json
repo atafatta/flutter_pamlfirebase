@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27419067562",
+    "project_id": "pamlfirebasesatu",
+    "storage_bucket": "pamlfirebasesatu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27419067562:android:1fade5442ca8d36639fcd3",
+        "android_client_info": {
+          "package_name": "com.example.pamlfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxh-NxdGqPQuc34DXNG6zSJiCWsmgT7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
